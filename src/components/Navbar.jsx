@@ -4,7 +4,14 @@ export default function Navbar() {
   return (
     <>
       <nav>
-        <NavLink to="/file-explorer">File Explorer</NavLink>
+        <ul style={{ listStyleType: "decimal" }}>
+          <li>
+            <NavLink to="/file-explorer">File Explorer</NavLink>
+          </li>
+          <li>
+            <NavLink to="/pagination">Pagination</NavLink>
+          </li>
+        </ul>
       </nav>
     </>
   );
