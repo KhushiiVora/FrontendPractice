@@ -1,8 +1,3 @@
-# React + Vite
+<h2>This repository contains my coding practice of frontend in React framework.</h2>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+[01 File Explorer](https://github.com/KhushiiVora/FrontendPractice/tree/main/src/components/01%20file%20explorer) - It is the folder structure display just like vscode. One can add file or folder into the structure.
