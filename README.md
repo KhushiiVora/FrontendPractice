@@ -3,4 +3,5 @@
 [01 File Explorer](https://github.com/KhushiiVora/FrontendPractice/tree/main/src/components/01%20file%20explorer) - It is the folder structure display just like vscode. One can add file or folder into the structure.
 <br/>
 [02 Pagination](https://github.com/KhushiiVora/FrontendPractice/tree/main/src/components/02%20pagination) - It is the implementation of pagination into a website.
-[03 Password Generator](https://github.com/KhushiiVora/FrontendPractice/tree/main/src/components/02%20pagination) - It helps in generating random passwords.
+<br/>
+[03 Password Generator](https://github.com/KhushiiVora/FrontendPractice/tree/main/src/components/03%20password%20generator) - It helps in generating random passwords.
