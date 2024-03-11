@@ -11,6 +11,9 @@ export default function Navbar() {
           <li>
             <NavLink to="/pagination">Pagination</NavLink>
           </li>
+          <li>
+            <NavLink to="/passwordGenerator">Password Generator</NavLink>
+          </li>
         </ul>
       </nav>
     </>
