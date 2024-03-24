@@ -12,7 +12,10 @@ export default function Navbar() {
             <NavLink to="/pagination">Pagination</NavLink>
           </li>
           <li>
-            <NavLink to="/passwordGenerator">Password Generator</NavLink>
+            <NavLink to="/password-generator">Password Generator</NavLink>
+          </li>
+          <li>
+            <NavLink to="/progress-bar">Progress Bar</NavLink>
           </li>
         </ul>
       </nav>
