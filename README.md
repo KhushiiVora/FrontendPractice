@@ -8,4 +8,4 @@
 <br/>
 [04 Progress Bar](https://github.com/KhushiiVora/FrontendPractice/tree/main/src/components/04%20progress%20bar) - It is a progress bar with accessibility and scalability(can accommodate new functionality).
 <br/>
-[05 grid lights](https://github.com/KhushiiVora/FrontendPractice/tree/main/src/components/05%20grid%20lights) - It is a progress bar with accessibility and scalability(can accommodate new functionality).
+[05 grid lights](https://github.com/KhushiiVora/FrontendPractice/tree/main/src/components/05%20grid%20lights) - It is a game in which one can click on the cell to change its background color. Once all the cells are filled with green then they will be white again in reverse order of clicking.
