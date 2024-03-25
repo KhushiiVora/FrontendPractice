@@ -17,6 +17,9 @@ export default function Navbar() {
           <li>
             <NavLink to="/progress-bar">Progress Bar</NavLink>
           </li>
+          <li>
+            <NavLink to="/grid-lights">Grid Lights</NavLink>
+          </li>
         </ul>
       </nav>
     </>

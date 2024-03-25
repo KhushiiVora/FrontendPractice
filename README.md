@@ -7,3 +7,5 @@
 [03 Password Generator](https://github.com/KhushiiVora/FrontendPractice/tree/main/src/components/03%20password%20generator) - It helps in generating random passwords.
 <br/>
 [04 Progress Bar](https://github.com/KhushiiVora/FrontendPractice/tree/main/src/components/04%20progress%20bar) - It is a progress bar with accessibility and scalability(can accommodate new functionality).
+<br/>
+[05 grid lights](https://github.com/KhushiiVora/FrontendPractice/tree/main/src/components/05%20grid%20lights) - It is a progress bar with accessibility and scalability(can accommodate new functionality).

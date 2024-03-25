@@ -5,6 +5,7 @@ import Index01 from "./components/01 file explorer/Index";
 import Index02 from "./components/02 pagination/Index";
 import Index03 from "./components/03 password generator/Index";
 import Index04 from "./components/04 progress bar/Index";
+import Index05 from "./components/05 grid lights/Index";
 
 function App() {
   return (
@@ -16,6 +17,7 @@ function App() {
           <Route path="/pagination" element={<Index02 />} />
           <Route path="/password-generator" element={<Index03 />} />
           <Route path="/progress-bar" element={<Index04 />} />
+          <Route path="/grid-lights" element={<Index05 />} />
         </Routes>
       </BrowserRouter>
     </>
