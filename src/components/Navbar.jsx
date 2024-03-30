@@ -20,6 +20,9 @@ export default function Navbar() {
           <li>
             <NavLink to="/grid-lights">Grid Lights</NavLink>
           </li>
+          <li>
+            <NavLink to="/lru-cache-simulation">LRU Cache Simulation</NavLink>
+          </li>
         </ul>
       </nav>
     </>
