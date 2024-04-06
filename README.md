@@ -1,4 +1,19 @@
 <h2>This repository contains my coding practice of frontend in React framework.</h2>
+<table>
+  <thead>
+    <tr><th>Link to component code</th><th>Description</th></tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/KhushiiVora/FrontendPractice/tree/main/src/components/01%20file%20explorer">01 File Explorer</a></td>
+      <td> It is the folder structure display just like vscode. One can add file or folder into the structure.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/KhushiiVora/FrontendPractice/tree/main/src/components/02%20pagination">02 Pagination</a></td>
+      <td> It is the folder structure display just like vscode. One can add file or folder into the structure.</td>
+    </tr>
+  </tbody>
+</table>
 
 [01 File Explorer](https://github.com/KhushiiVora/FrontendPractice/tree/main/src/components/01%20file%20explorer) - It is the folder structure display just like vscode. One can add file or folder into the structure.
 <br/>
