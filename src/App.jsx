@@ -7,6 +7,7 @@ import Index03 from "./components/03 password generator/Index";
 import Index04 from "./components/04 progress bar/Index";
 import Index05 from "./components/05 grid lights/Index";
 import Index06 from "./components/06 LRU cache/Index";
+import Index07 from "./components/07 like button/Index";
 
 function App() {
   return (
@@ -20,6 +21,7 @@ function App() {
           <Route path="/progress-bar" element={<Index04 />} />
           <Route path="/grid-lights" element={<Index05 />} />
           <Route path="/lru-cache-simulation" element={<Index06 />} />
+          <Route path="/like-button" element={<Index07 />} />
         </Routes>
       </BrowserRouter>
     </>

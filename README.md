@@ -11,3 +11,5 @@
 [05 Grid Lights](https://github.com/KhushiiVora/FrontendPractice/tree/main/src/components/05%20grid%20lights) - It is a game in which one can click on the cell to change its background color. Once all the cells are filled with green then they will be white again in reverse order of clicking.
 <br/>
 [06 LRU Cache](https://github.com/KhushiiVora/FrontendPractice/tree/main/src/components/06%20LRU%20cache) - It is the simulation of LRU(Least Recently Used) cache. When one clicks on one of the tabs, if data doesn't exist in cache then it will get loaded & rendered(takes 1 second delay) and will be stored into the LRU cache else data is fetched from the cache(causing no delay).
+<br/>
+[07 Like Button](https://github.com/KhushiiVora/FrontendPractice/tree/main/src/components/07%20like%20button) - It is a simple like button that does network call on like or unlike and shows the button state accordingly.

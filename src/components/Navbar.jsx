@@ -23,6 +23,9 @@ export default function Navbar() {
           <li>
             <NavLink to="/lru-cache-simulation">LRU Cache Simulation</NavLink>
           </li>
+          <li>
+            <NavLink to="/like-button">Like Button</NavLink>
+          </li>
         </ul>
       </nav>
     </>
