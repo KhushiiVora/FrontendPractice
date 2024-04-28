@@ -32,5 +32,9 @@
     <td><a href="https://github.com/KhushiiVora/FrontendPractice/tree/main/src/components/07%20like%20button">07 Like Button</a></td>
     <td>It is a simple like button that does network call on like or unlike and shows the button state accordingly.</td>
     </tr>
+    <tr>
+    <td><a href="https://github.com/KhushiiVora/FrontendPractice/tree/main/src/components/08%20use%20effect%20polyfill">08 useEffect Polyfill</a></td>
+    <td>It is a simulation of useEffect hook.</td>
+    </tr>
   </tbody>
 </table>
