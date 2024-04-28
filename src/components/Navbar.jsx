@@ -26,6 +26,9 @@ export default function Navbar() {
           <li>
             <NavLink to="/like-button">Like Button</NavLink>
           </li>
+          <li>
+            <NavLink to="/useeffect-polyfill">useEffect Polyfill</NavLink>
+          </li>
         </ul>
       </nav>
     </>

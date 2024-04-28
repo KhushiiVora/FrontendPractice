@@ -8,6 +8,7 @@ import Index04 from "./components/04 progress bar/Index";
 import Index05 from "./components/05 grid lights/Index";
 import Index06 from "./components/06 LRU cache/Index";
 import Index07 from "./components/07 like button/Index";
+import Index08 from "./components/08 use effect polyfill/Index";
 
 function App() {
   return (
@@ -22,6 +23,7 @@ function App() {
           <Route path="/grid-lights" element={<Index05 />} />
           <Route path="/lru-cache-simulation" element={<Index06 />} />
           <Route path="/like-button" element={<Index07 />} />
+          <Route path="/useeffect-polyfill" element={<Index08 />} />
         </Routes>
       </BrowserRouter>
     </>
