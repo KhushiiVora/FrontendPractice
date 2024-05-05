@@ -29,6 +29,9 @@ export default function Navbar() {
           <li>
             <NavLink to="/useeffect-polyfill">useEffect Polyfill</NavLink>
           </li>
+          <li>
+            <NavLink to="/theme">Theme</NavLink>
+          </li>
         </ul>
       </nav>
     </>

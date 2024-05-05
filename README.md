@@ -36,5 +36,9 @@
     <td><a href="https://github.com/KhushiiVora/FrontendPractice/tree/main/src/components/08%20use%20effect%20polyfill">08 useEffect Polyfill</a></td>
     <td>It is a simulation of useEffect hook.</td>
     </tr>
+    <tr>
+    <td><a href="https://github.com/KhushiiVora/FrontendPractice/tree/main/src/components/09%20light%20dark%20theme">09 Light/Dark theme</a></td>
+    <td>Light/Dark mode implementation using react context</td>
+    </tr>
   </tbody>
 </table>
