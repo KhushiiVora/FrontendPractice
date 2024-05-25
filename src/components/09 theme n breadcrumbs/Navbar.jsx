@@ -6,9 +6,9 @@ const Navbar = () => {
   return (
     <nav>
       <div className="nav_links">
-        <Link to="/theme/">Home</Link>
-        <Link to="/theme/about">About</Link>
-        <Link to="/theme/product">Product</Link>
+        <Link to="/theme-N-breadcrumbs/">Home</Link>
+        <Link to="/theme-N-breadcrumbs/about">About</Link>
+        <Link to="/theme-N-breadcrumbs/products">Products</Link>
       </div>
       <div>
         <div className="mode_switch" onClick={toggleTheme}>

@@ -30,7 +30,7 @@ export default function Navbar() {
             <NavLink to="/useeffect-polyfill">useEffect Polyfill</NavLink>
           </li>
           <li>
-            <NavLink to="/theme">Theme</NavLink>
+            <NavLink to="/theme-N-breadcrumbs">Theme and Breadcrumbs</NavLink>
           </li>
         </ul>
       </nav>

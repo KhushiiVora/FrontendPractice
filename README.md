@@ -37,8 +37,8 @@
     <td>It is a simulation of useEffect hook.</td>
     </tr>
     <tr>
-    <td><a href="https://github.com/KhushiiVora/FrontendPractice/tree/main/src/components/09%20light%20dark%20theme">09 Light/Dark theme</a></td>
-    <td>Light/Dark mode implementation using react context</td>
+    <td><a href="https://github.com/KhushiiVora/FrontendPractice/tree/main/src/components/09%20theme%20n%20breadcrumbs">09 Theme and Breadcrumbs</a></td>
+    <td>Light/Dark mode implementation using react context. Breadcrumbs in products related pages for easy navigation.</td>
     </tr>
   </tbody>
 </table>
