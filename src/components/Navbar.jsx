@@ -32,6 +32,9 @@ export default function Navbar() {
           <li>
             <NavLink to="/theme-N-breadcrumbs">Theme and Breadcrumbs</NavLink>
           </li>
+          <li>
+            <NavLink to="/otp-ui">OTP User Interface</NavLink>
+          </li>
         </ul>
       </nav>
     </>

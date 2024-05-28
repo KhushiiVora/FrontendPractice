@@ -40,5 +40,9 @@
     <td><a href="https://github.com/KhushiiVora/FrontendPractice/tree/main/src/components/09%20theme%20n%20breadcrumbs">09 Theme and Breadcrumbs</a></td>
     <td>Light/Dark mode implementation using react context. Breadcrumbs in products related pages for easy navigation.</td>
     </tr>
+    <tr>
+    <td><a href="https://github.com/KhushiiVora/FrontendPractice/tree/main/src/components/10%20OTP%20UI">10 OTP UI</a></td>
+    <td>This is a simple OTP UI that handles cases based on user input. Cases such as: the focus moves to empty boxes of the OTP as user enters value, only one digit per box is allowed by taking the last entered value in the box, on having all boxes filled it shows "successfull login!!!".</td>
+    </tr>
   </tbody>
 </table>

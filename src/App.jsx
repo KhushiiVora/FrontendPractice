@@ -10,6 +10,7 @@ import Index06 from "./components/06 LRU cache/Index";
 import Index07 from "./components/07 like button/Index";
 import Index08 from "./components/08 use effect polyfill/Index";
 import Index09 from "./components/09 theme n breadcrumbs/Index";
+import Index10 from "./components/10 OTP UI/Index";
 
 function App() {
   return (
@@ -26,6 +27,7 @@ function App() {
           <Route path="/like-button" element={<Index07 />} />
           <Route path="/useeffect-polyfill" element={<Index08 />} />
           <Route path="/theme-N-breadcrumbs/*" element={<Index09 />} />
+          <Route path="/otp-ui" element={<Index10 />} />
         </Routes>
       </BrowserRouter>
     </>
