@@ -35,6 +35,9 @@ export default function Navbar() {
           <li>
             <NavLink to="/otp-ui">OTP User Interface</NavLink>
           </li>
+          <li>
+            <NavLink to="/multi-select-search">Multi Select Search</NavLink>
+          </li>
         </ul>
       </nav>
     </>

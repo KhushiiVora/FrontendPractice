@@ -44,5 +44,9 @@
     <td><a href="https://github.com/KhushiiVora/FrontendPractice/tree/main/src/components/10%20OTP%20UI">10 OTP UI</a></td>
     <td>This is a simple OTP UI that handles cases based on user input. Cases such as: the focus moves to empty boxes of the OTP as user enters value, only one digit per box is allowed by taking the last entered value in the box, on having all boxes filled it shows "successfull login!!!".</td>
     </tr>
+    <tr>
+    <td><a href="https://github.com/KhushiiVora/FrontendPractice/tree/main/src/components/11%20multi%20select%20search">11 multi select search</a></td>
+    <td>This is a search box with debouncing to minimize network calls. Users can select multiple users from the search results, and each selected user is displayed as a removable chip. Duplicate selections are prevented.</td>
+    </tr>
   </tbody>
 </table>
