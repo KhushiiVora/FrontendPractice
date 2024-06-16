@@ -48,5 +48,9 @@
     <td><a href="https://github.com/KhushiiVora/FrontendPractice/tree/main/src/components/11%20multi%20select%20search">11 multi select search</a></td>
     <td>This is a search box with debouncing to minimize network calls. Users can select multiple users from the search results, and each selected user is displayed as a removable chip. Duplicate selections are prevented.</td>
     </tr>
+    <tr>
+    <td><a href="https://github.com/KhushiiVora/FrontendPractice/tree/main/src/components/12%20stepper">12 Stepper</a></td>
+    <td>It is a stepper component commonly shown on e-commerce websites for placing orders. It includes dynamic steps, currently ranging from customer information to order placement.</td>
+    </tr>
   </tbody>
 </table>

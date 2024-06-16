@@ -38,6 +38,9 @@ export default function Navbar() {
           <li>
             <NavLink to="/multi-select-search">Multi Select Search</NavLink>
           </li>
+          <li>
+            <NavLink to="/stepper">Stepper</NavLink>
+          </li>
         </ul>
       </nav>
     </>
