@@ -41,6 +41,9 @@ export default function Navbar() {
           <li>
             <NavLink to="/stepper">Stepper</NavLink>
           </li>
+          <li>
+            <NavLink to="/quiz">Quiz App</NavLink>
+          </li>
         </ul>
       </nav>
     </>

@@ -13,6 +13,7 @@ import Index09 from "./components/09 theme n breadcrumbs/Index";
 import Index10 from "./components/10 OTP UI/Index";
 import Index11 from "./components/11 multi select search/Index";
 import Index12 from "./components/12 stepper/Index";
+import Index13 from "./components/13 quiz app/Index";
 
 function App() {
   return (
@@ -32,6 +33,7 @@ function App() {
           <Route path="/otp-ui" element={<Index10 />} />
           <Route path="/multi-select-search" element={<Index11 />} />
           <Route path="/stepper" element={<Index12 />} />
+          <Route path="/quiz" element={<Index13 />} />
         </Routes>
       </BrowserRouter>
     </>

@@ -52,5 +52,9 @@
     <td><a href="https://github.com/KhushiiVora/FrontendPractice/tree/main/src/components/12%20stepper">12 Stepper</a></td>
     <td>It is a stepper component commonly shown on e-commerce websites for placing orders. It includes dynamic steps, currently ranging from customer information to order placement.</td>
     </tr>
+    <tr>
+    <td><a href="https://github.com/KhushiiVora/FrontendPractice/tree/main/src/components/13%20quiz%20app">13 Quiz App</a></td>
+    <td>It is a simple Quiz app that shows result at the end of 10 questions.</td>
+    </tr>
   </tbody>
 </table>
