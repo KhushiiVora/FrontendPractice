@@ -57,7 +57,7 @@
     <td>It is a simple Quiz app that shows result at the end of 10 questions.</td>
     </tr>
     <tr>
-    <td><a href="https://github.com/KhushiiVora/FrontendPractice/tree/main/src/components/14%selectable%20grid">14 Selectable Grid</a></td>
+    <td><a href="https://github.com/KhushiiVora/FrontendPractice/tree/main/src/components/14%20selectable%20grid">14 Selectable Grid</a></td>
     <td>It is a simple grid in which user can drag a mouse and select a sub-grid.</td>
     </tr>
   </tbody>
