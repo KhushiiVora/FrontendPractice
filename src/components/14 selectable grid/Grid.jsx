@@ -51,7 +51,6 @@ const Grid = (props) => {
       style={{ "--rows": rows, "--cols": cols }}
       onMouseUp={handleMouseUp}
     >
-      {console.log(selectedCells)}
       {[...Array(rows * cols)].map((_, i) => {
         return (
           <div
