@@ -44,6 +44,9 @@ export default function Navbar() {
           <li>
             <NavLink to="/quiz">Quiz App</NavLink>
           </li>
+          <li>
+            <NavLink to="/selectable-grid">Selectable Grid</NavLink>
+          </li>
         </ul>
       </nav>
     </>

@@ -56,5 +56,9 @@
     <td><a href="https://github.com/KhushiiVora/FrontendPractice/tree/main/src/components/13%20quiz%20app">13 Quiz App</a></td>
     <td>It is a simple Quiz app that shows result at the end of 10 questions.</td>
     </tr>
+    <tr>
+    <td><a href="https://github.com/KhushiiVora/FrontendPractice/tree/main/src/components/14%selectable%20grid">14 Selectable Grid</a></td>
+    <td>It is a simple grid in which user can drag a mouse and select a sub-grid.</td>
+    </tr>
   </tbody>
 </table>
