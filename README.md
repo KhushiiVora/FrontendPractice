@@ -60,5 +60,9 @@
     <td><a href="https://github.com/KhushiiVora/FrontendPractice/tree/main/src/components/14%20selectable%20grid">14 Selectable Grid</a></td>
     <td>It is a simple grid in which user can drag a mouse and select a sub-grid.</td>
     </tr>
+    <tr>
+    <td><a href="https://github.com/KhushiiVora/FrontendPractice/tree/main/src/components/15%20drag%20n%20drop%20notes">15 Dragable Notes</a></td>
+    <td>In this app, notes can be dragged and their positions are saved. If a note overlaps with another, it will return to its previous position.</td>
+    </tr>
   </tbody>
 </table>

@@ -47,6 +47,9 @@ export default function Navbar() {
           <li>
             <NavLink to="/selectable-grid">Selectable Grid</NavLink>
           </li>
+          <li>
+            <NavLink to="/drag-drop-notes">Dragable Notes</NavLink>
+          </li>
         </ul>
       </nav>
     </>

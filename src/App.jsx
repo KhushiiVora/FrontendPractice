@@ -15,6 +15,7 @@ import Index11 from "./components/11 multi select search/Index";
 import Index12 from "./components/12 stepper/Index";
 import Index13 from "./components/13 quiz app/Index";
 import Index14 from "./components/14 selectable grid/Index";
+import Index15 from "./components/15 drag n drop notes/Index";
 
 function App() {
   return (
@@ -36,6 +37,7 @@ function App() {
           <Route path="/stepper" element={<Index12 />} />
           <Route path="/quiz" element={<Index13 />} />
           <Route path="/selectable-grid" element={<Index14 />} />
+          <Route path="/drag-drop-notes" element={<Index15 />} />
         </Routes>
       </BrowserRouter>
     </>
